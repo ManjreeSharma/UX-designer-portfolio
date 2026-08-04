@@ -1,1 +1,64 @@
+# Enterprise Identity & Access Management (IAM) Platform Redesign
 
+Duration: 6 Weeks
+
+# Background
+
+Modern organizations rely on Identity & Access Management (IAM) platforms to securely manage user authentication, authorization, and access to enterprise applications. These platforms are used daily by employees, IT administrators, managers, and contractors to log in, reset passwords, configure Multi-Factor Authentication (MFA), request application access, and manage user accounts.
+
+Despite their critical role in enterprise security, many IAM platforms prioritize technical functionality over user experience. As a result, users often face confusing workflows, complex security terminology, inconsistent navigation, and lengthy authentication processes. These usability challenges increase cognitive load, reduce productivity, and generate unnecessary support requests.
+
+# The Problem
+
+During the initial discovery phase, several key usability challenges were identified across the authentication and access management experience:
+
+1. Users struggle to complete the login process due to multiple authentication steps.
+2. MFA enrollment is difficult to understand for first-time users.
+3. Password recovery requires too many screens and technical decisions.
+4. IT administrators perform repetitive tasks that require excessive clicks.
+5. Important security information is difficult to locate.
+6. Mobile users experience inconsistent layouts and navigation.
+7. The platform lacks clear visual hierarchy, making critical actions difficult to identify.
+8. Accessibility considerations are inconsistent, creating barriers for keyboard and assistive technology users.
+
+These issues increase task completion time, reduce user confidence, and place additional pressure on IT support teams.
+
+# Design Challenge
+
+How might we redesign an enterprise Identity & Access Management platform to create a secure, intuitive, and accessible experience that reduces login friction, simplifies authentication, and enables users to manage their digital identity with confidence across desktop, tablet, and mobile devices?
+
+# Project Goal
+
+Design a modern, user-centered IAM platform that balances security, usability, and accessibility by:
+
+1. Simplifying authentication workflows
+2. Improving the Multi-Factor Authentication (MFA) experience
+3. Streamlining password recovery
+4. Reducing cognitive load
+5. Supporting responsive experiences across all devices
+6. Following accessibility best practices
+7. Creating an efficient workflow for both employees and administrators
+
+# My Role
+Senior UX Designer
+
+# Responsibilities:
+
+1. UX Research
+2. Competitive Analysis
+3. User Personas
+4. Journey Mapping
+5.Information Architecture
+6. User Flows
+7. Sketching
+8. Wireframing
+9. High-Fidelity UI Design
+10. Interactive Prototyping
+11. Usability Testing
+12. Accessibility Review
+13. AI-assisted Design Exploration
+14. Stakeholder Presentation
+
+# User Research 
+
+User research was conducted through interviews, surveys, and competitive analysis of Microsoft Entra ID, Okta, Auth0 and Google Workspace Admin to understand user needs and pain points. The findings revealed opportunities to simplify login, MFA, password recovery, and access management, providing a strong foundation for a more intuitive, user-centered, and accessible IAM experience.
