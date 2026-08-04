@@ -65,3 +65,5 @@ User research was conducted through interviews, surveys, and competitive analysi
 
 # User Research: Key Pain Points
 <img width="1536" height="1024" alt="ChatGPT Image Aug 4, 2026, 01_52_32 PM" src="https://github.com/user-attachments/assets/9bf7e305-eaae-4c9c-9635-686361f4318e" />
+
+# Persona
