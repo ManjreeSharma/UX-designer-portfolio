@@ -15,7 +15,7 @@ To evaluate leading Identity & Access Management (IAM) platforms and identify be
 | Mobile Experience | Responsive           | Responsive | Responsive        | Responsive             | Excellent | Ensure consistent experience across devices.       |
 | Accessibility     | Good                 | Good       | Moderate          | Good                   | Good      | Design with WCAG 2.2 AA from the start.            |
 
-# Key Insights
+## Key Insights
 
 ### Microsoft Entra ID
 
@@ -42,7 +42,7 @@ To evaluate leading Identity & Access Management (IAM) platforms and identify be
 * Excellent multi-factor authentication experience.
 * Focused primarily on authentication rather than complete IAM management.
 
-# Design Opportunities
+## Design Opportunities
 
 * Simplify multi-step authentication workflows.
 * Create a guided, first-time MFA setup experience.
@@ -53,7 +53,7 @@ To evaluate leading Identity & Access Management (IAM) platforms and identify be
 * Build a fully accessible experience using WCAG 2.2 AA principles.
 * Deliver a consistent mobile-first experience across desktop, tablet, and mobile.
 
-### Conclusion
+## Conclusion
 
 The competitive analysis revealed that while existing IAM platforms provide strong security and enterprise capabilities, many still present usability and accessibility challenges. The redesigned solution focuses on combining enterprise-grade security with a streamlined, user-centered, and accessible experience that reduces friction for employees, IT administrators, and managers.
 
