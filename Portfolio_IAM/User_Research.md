@@ -1,17 +1,15 @@
 # UX Research Study Plan
 
-## Enterprise Identity & Access Management (IAM) Platform Redesign
-
 # Introduction
 
-### Title
+## Title
 **Enterprise Identity & Access Management (IAM) Platform Redesign – UX Research Study**
 
-### Author
+## Author
 **Manjree** 
 Senior Accessibility Consultant | UX Designer
 
-### Stakeholders
+## Stakeholders
 
 * Product Manager
 * UX Designer
@@ -21,13 +19,12 @@ Senior Accessibility Consultant | UX Designer
 * Accessibility Consultant
 * Business Stakeholders
 
-### Date
-**August 2026**
+### Date: August 2026
 
-### Project Background
+## Project Background
 Enterprise Identity & Access Management (IAM) platforms are essential for secure access to business applications, but users often experience friction during login, MFA enrollment, password recovery, and access management. Complex authentication workflows, inconsistent navigation, and accessibility barriers reduce productivity and increase IT support requests. This research aims to identify usability issues and redesign the experience to be more intuitive, efficient, and accessible.
 
-### Research Goals
+## Research Goals
 
 The research aims to:
 
@@ -63,7 +60,7 @@ Success will be measured using:
 
 # Methodology
 
-### Research Methods
+## Research Methods
 
 * One-to-one User Interviews
 * Online Surveys
@@ -72,7 +69,7 @@ Success will be measured using:
 * Usability Testing
 * Accessibility Evaluation
 
-### Data Collection
+## Data Collection
 
 * User interviews
 * Task observations
@@ -81,7 +78,7 @@ Success will be measured using:
 * Think-aloud sessions
 * Accessibility testing using keyboard navigation and screen readers (NVDA/JAWS)
 
-### Data Analysis
+## Data Analysis
 
 * Affinity Mapping
 * Thematic Analysis
@@ -101,7 +98,7 @@ The study included participants representing different enterprise roles.
 | Business Analysts   | 3      |
 | Screen Reader Users | 3      |
 
-### Participant Characteristics
+## Participant Characteristics
 
 * Experience using enterprise applications
 * Regular users of authentication systems
@@ -112,43 +109,43 @@ The study included participants representing different enterprise roles.
 
 # Research Script
 
-### Introduction
+## Introduction
 
 Thank you for participating in this usability study. We are evaluating an Enterprise Identity & Access Management (IAM) platform to understand how users complete authentication and access management tasks. There are no right or wrong answers—we're evaluating the design, not you.
 
-## Interview Questions
+# Interview Questions
 
-### Login
+## Login
 
 * How do you usually log into enterprise applications?
 * What challenges do you face during login?
 * What makes you feel confident while signing in?
 
-### MFA
+## MFA
 
 * Have you configured MFA before?
 * Which part of the setup process feels confusing?
 * What information would make MFA easier?
 
-### Password Recovery
+## Password Recovery
 
 * Have you forgotten your password recently?
 * What was frustrating about the recovery process?
 * How could password recovery be improved?
 
-### IT Administration
+## IT Administration
 
 * Which administrative tasks consume the most time?
 * Which workflows involve too many clicks?
 * What information do you need to manage users efficiently?
 
-### Access Approval
+## Access Approval
 
 * How do you currently approve employee access requests?
 * What information helps you make approval decisions?
 * What delays the approval process?
 
-### Accessibility
+## Accessibility
 
 * Can you complete authentication using only the keyboard?
 * Does your screen reader announce all controls correctly?
@@ -168,5 +165,3 @@ Thank you for participating in this usability study. We are evaluating an Enterp
 * Usability Study Report
 * Accessibility Recommendations
 * Final Enterprise IAM Design
-
-This research plan is tailored to your **Enterprise Identity & Access Management (IAM) Platform Redesign** case study and aligns with a professional UX research process expected in enterprise product design portfolios.
