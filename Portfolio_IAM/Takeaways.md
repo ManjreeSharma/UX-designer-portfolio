@@ -1,9 +1,4 @@
-# Going forward
-
-1. [Takeaways](https://github.com/ManjreeSharma/UX-designer-portfolio/edit/main/Portfolio_IAM/5.%20Going%20Forward.md#1-takeaways)
-2. [Next steps](https://github.com/ManjreeSharma/UX-designer-portfolio/edit/main/Portfolio_IAM/5.%20Going%20Forward.md#2-next-steps)
-
-# 1. Takeaways
+# Takeaways
 ## Impact
 
 The redesigned Identity & Access Management (IAM) experience simplified authentication, reduced task completion time, and improved overall usability. Guided workflows, streamlined navigation, and accessible interactions increased user confidence, reduced errors, and minimized dependency on IT support. The solution also provided a more consistent experience across desktop, tablet, and mobile while aligning with WCAG 2.2 AA accessibility standards.
